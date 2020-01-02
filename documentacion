@@ -1,0 +1,6 @@
+1: pip install speechrecognition (https://pypi.org/project/SpeechRecognition/) (ok)
+2: pip install pyaudio  para linux Ubuntu (sudo apt-get install portaudio19-dev) -- cuando se genera el error. (ok)
+   (https://stackoverflow.com/questions/50457197/pyaudio-installation-failure-on-ubuntu)
+   Solucion al modulo de pyaudio (apt-get install python3-dev)
+3:touch main.py
+4:
